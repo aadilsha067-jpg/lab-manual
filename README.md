@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/aadilsha067-jpg/lab-manual/tree/master/0705-design-hashset) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aadilsha067-jpg/lab-manual/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/aadilsha067-jpg/lab-manual/tree/master/1396-design-underground-system) |
+## Math
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aadilsha067-jpg/lab-manual/tree/master/1232-check-if-it-is-a-straight-line) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/aadilsha067-jpg/lab-manual/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
